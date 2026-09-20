@@ -63,7 +63,7 @@ Below is a comparative breakdown of leading enterprise SaaS and API platforms fo
 
 Curated list of open-source software, models, and complete applications for self-hosting invoice extraction, fine-tuning document AI models, and local OCR. 
 
-*Sorted by GitHub Star count in descending order:*
+*Sorted by GitHub Stars_Count in descending order:*
 
 | 📦 Project & Repository | ⭐ Stars | 🛠️ Tech Stack & Highlights | 📝 Description |
 | :--- | :---: | :--- | :--- |
