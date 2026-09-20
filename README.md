@@ -65,7 +65,7 @@ Curated list of open-source software, models, and complete applications for self
 
 *Sorted by GitHub Stars_Count in descending order:*
 
-| 📦 Project & Repository | ⭐ Stars | 🛠️ Tech Stack & Highlights | 📝 Description |
+| 📦 Project & Repository | ⭐ GitHub_Stars | 🛠️ Tech Stack & Highlights | 📝 Description |
 | :--- | :---: | :--- | :--- |
 | **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** | [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | Python, PaddlePaddle, C++ | Ultra-lightweight OCR toolkit and document layout analysis engine supporting 80+ languages. |
 | **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** | [![Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | C++, C | Google's legendary open-source OCR engine. The foundational building block for document parsers worldwide. |
